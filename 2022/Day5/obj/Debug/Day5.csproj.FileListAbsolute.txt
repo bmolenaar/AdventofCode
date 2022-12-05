@@ -1,0 +1,7 @@
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\bin\Debug\Day5.exe.config
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\bin\Debug\Day5.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\bin\Debug\Day5.pdb
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\obj\Debug\Day5.csprojAssemblyReference.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\obj\Debug\Day5.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\Day5\obj\Debug\Day5.pdb
