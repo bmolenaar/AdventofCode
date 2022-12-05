@@ -1,0 +1,7 @@
+E:\Projects\Code\Advent of Code\2022\Day2\bin\Debug\Day2.exe.config
+E:\Projects\Code\Advent of Code\2022\Day2\bin\Debug\Day2.exe
+E:\Projects\Code\Advent of Code\2022\Day2\bin\Debug\Day2.pdb
+E:\Projects\Code\Advent of Code\2022\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+E:\Projects\Code\Advent of Code\2022\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+E:\Projects\Code\Advent of Code\2022\Day2\obj\Debug\Day2.exe
+E:\Projects\Code\Advent of Code\2022\Day2\obj\Debug\Day2.pdb

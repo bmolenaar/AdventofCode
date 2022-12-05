@@ -1,0 +1,7 @@
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\bin\Debug\Day4.exe.config
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\bin\Debug\Day4.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\bin\Debug\Day4.pdb
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\obj\Debug\Day4.csprojAssemblyReference.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\obj\Debug\Day4.exe
+C:\Users\benmo\AppData\Local\Temporary Projects\Day4\obj\Debug\Day4.pdb
